@@ -27,6 +27,10 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'mysql2'
+
+gem 'capistrano',  '~> 3.1'
+gem 'capistrano-rails', '~> 1.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
